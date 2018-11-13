@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Shootable
+  - Inimigo
+  - bull2
+  - bull1
+  - Inimigo2
+  - Placar
   layers:
   - Default
   - TransparentFX
